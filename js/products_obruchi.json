@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "Обручі 'Новорічний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Обручі 'Шкільний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Обручі 'Горошок'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Обручі '1 вересня'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch4.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "Обручі 'Нічне сяйво'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch5.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Обручі 'Різдвяний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch6.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "Обручі 'Слоненятко'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch7.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "Обручі 'Метелик'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch8.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "Обручі 'Красуня'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch9.jpg"
+  },
+
+  {
+    "id": 10,
+    "title": "Обручі 'Бриз'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch10.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Обручі 'Візерунок'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch11.jpg"
+  },
+
+  {
+    "id": 12,
+    "title": "Обручі 'Квітка'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "obruch12.jpg"
+  }
+]

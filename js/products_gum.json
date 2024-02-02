@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "Гумки 'Новорічний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Гумки 'Шкільний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Гумки 'Горошок'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Гумки '1 вересня'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g4.jpg"
+  },
+
+  {
+    "id": 5,
+    "title": "Гумки 'Нічне сяйво'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g5.jpg"
+  },
+
+  {
+    "id": 6,
+    "title": "Гумки 'Різдвяний'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g6.jpg"
+  },
+
+  {
+    "id": 7,
+    "title": "Гумки 'Слоненятко'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g7.jpg"
+  },
+
+  {
+    "id": 8,
+    "title": "Гумки 'Метелик'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g8.jpg"
+  },
+
+  {
+    "id": 9,
+    "title": "Гумки 'Красуня'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g9.jpg"
+  },
+
+  {
+    "id": 10,
+    "title": "Гумки 'Бриз'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g10.jpg"
+  },
+
+  {
+    "id": 11,
+    "title": "Гумки 'Візерунок'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g11.jpg"
+  },
+
+  {
+    "id": 12,
+    "title": "Гумки 'Квітка'",
+    "itemsInBox": 6,
+    "price": 50,
+    "imgSrc": "g12.jpg"
+  }
+]
