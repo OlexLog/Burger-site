@@ -1,0 +1,79 @@
+.hero-section {
+	& {
+		margin: 0;
+		width: 100%;
+		padding-top: clamp(3.5rem, 20vw, 11.9rem);
+		padding-bottom: 1.25rem;
+		background-image: url('/images/fon/fon_start.jpg');
+		max-height: 43.25rem;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
+	}
+
+	&__container {
+		padding: 0;
+		flex-wrap: nowrap;
+	}
+
+	&__text--title {
+		display: flex;
+		justify-content: center;
+		color: var(--color-primary-normal);
+		text-align: center;
+		font-size: clamp(1.25rem, 8vw, 6rem);;
+		font-weight: 900;
+		line-height: 1;
+		padding-bottom: clamp(1.25rem, 5vw, 3.75rem);
+		text-shadow: 8px -8px 6px var(--color-primary-dark);
+		letter-spacing: 8px;
+
+	}
+
+	&__text--subtitle {
+		display: flex;
+		justify-content: center;
+		color: var(--color-primary-dark);
+		font-size: clamp(1.25rem, 6vw, 5rem);
+		margin-bottom: clamp(1rem, 3vw, 2rem);
+		font-weight: 700;
+		line-height: 1;
+		text-shadow: 6px -3px 2px var(--color-primary-normal);
+		letter-spacing: 4px;
+	}
+
+	@media screen and (min-width: $br--mobile) {
+		& {
+			text-align: left;
+		}
+
+	}
+
+	@media screen and (min-width: $br--tablet) {
+		& {
+			padding-bottom: 0;
+
+		}
+
+		&__container {
+			background: var(--color-primary-clear);
+
+		}
+	}
+
+	@media screen and (min-width: $br--smalldesktop) {
+		&__text--subtitle {
+			line-height: 1.5;
+
+		}
+
+		&__text--title {
+			line-height: 1.5;
+			font-weight: 900;
+		}
+
+		&__container {
+			padding: 0;
+		}
+	}
+}

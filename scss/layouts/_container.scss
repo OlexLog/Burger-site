@@ -1,0 +1,9 @@
+.container {
+	& {
+		margin-inline: auto;
+		padding-left: clamp(0.625rem, 3vw, 1.5625rem);
+		padding-right: clamp(0.625rem, 3vw, 1.5625rem);
+		width: 100%;
+		max-width: 77.5rem;
+	}
+}

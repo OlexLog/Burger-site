@@ -1,0 +1,25 @@
+.bant-section {
+	padding-top: clamp(0.625rem, 2vw, 1.25rem);
+	padding-bottom: clamp(0.625rem, 2vw, 1.25rem);
+	background: linear-gradient(to right, #88bfe8 0%, #70b0e0 100%);
+
+	&__title {
+		font-size: clamp(1.5rem, 4vw, 4rem);
+		margin-bottom: clamp(0.625rem, 4vw, 1.25rem);
+		text-shadow: 6px -3px 2px var(--color-primary-normal);
+	}
+
+	&__container {
+		display: flex;
+	}
+
+	&__menu {
+		display: flex;
+		justify-content: space-between;
+	}
+
+}
+
+.form-group {
+	margin-bottom: 0.3rem;
+}

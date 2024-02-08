@@ -1,0 +1,21 @@
+.gum-section {
+	padding-top: clamp(10px, 3vw, 40px);
+	padding-bottom: clamp(10px, 3vw, 40px);
+	background: linear-gradient(to right, #88bfe8 0%, #70b0e0 100%);
+
+	&__title {
+		font-size: clamp(24px, 4vw, 64px);
+		margin-bottom: clamp(10px, 4vw, 40px);
+		text-shadow: 6px -3px 2px var(--color-primary-normal);
+	}
+
+	&__container {
+		display: flex;
+	}
+
+	&__menu {
+		display: flex;
+		justify-content: space-between;
+	}
+
+}

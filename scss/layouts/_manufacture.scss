@@ -1,0 +1,58 @@
+.manufacture {
+	padding-bottom: clamp(10px, 2vw, 20px);
+	background-color: var(--color-fon-correctly);
+
+	&__container {
+		display: flex;
+		flex-direction: column-reverse;
+		align-items: center;
+		justify-content: center;
+	}
+
+
+	&__title {
+		font-size: clamp(13px, 3.65vw, 30px);
+		margin-bottom: clamp(10px, 3vw, 15px);
+		text-align: center;
+	}
+
+	&__text {
+		text-align: justify;
+		overflow-y: scroll;
+		height: 200px;
+		font-size: clamp(12px, 2vw, 14px);
+		margin-bottom: clamp(10px, 4vw, 20px);
+	}
+
+	&__image {
+		border-radius: 16px;
+		margin-inline: auto;
+		width: clamp(153px, 50%, 250px);
+		height: clamp(153px, 50%, 202px);
+	}
+
+	@media screen and (min-width: $br--mobile) {
+		&__container {
+			padding: 15px;
+		}
+
+		&__text {
+			overflow-y: hidden;
+			height: auto;
+		}
+	}
+
+	@media screen and (min-width: $br--smalldesktop) {
+		&__container {
+			flex-direction: row-reverse;
+		}
+
+		&__image {
+			margin: 0;
+		}
+
+		&__text {
+			margin-right: clamp(20px, 4vw, 50px);
+		}
+	}
+}

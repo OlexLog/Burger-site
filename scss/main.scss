@@ -1,0 +1,36 @@
+@import "./utils/fonts";
+@import "./utils/utils";
+@import "./utils/variables";
+@import "./base";
+
+@import "./components/buttons";
+@import "./components/carousel";
+@import "./components/format";
+@import "./components/input";
+@import "./components/link";
+@import "./components/pagination";
+
+@import "./layouts/bant-section";
+@import "./layouts/burger";
+@import "./layouts/cart";
+@import "./layouts/container";
+@import "./layouts/correctly";
+@import "./layouts/counter";
+@import "./layouts/footer";
+@import "./layouts/gum-section";
+@import "./layouts/header";
+@import "./layouts/hero";
+@import "./layouts/kanzashi";
+@import "./layouts/lesson";
+@import "./layouts/manufacture";
+@import "./layouts/masterclass";
+@import "./layouts/modal";
+@import "./layouts/modalcart";
+@import "./layouts/obruchi-section";
+@import "./layouts/traditions";
+
+@import "./arrow/arrow";
+@import "./arrow/body";
+@import "./arrow/menu_arrow";
+@import "./arrow/sub_menu";
+@import "./arrow/wrapper";
